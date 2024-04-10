@@ -10,3 +10,4 @@ scikit-learn
 beautifulsoup4
 html5lib
 requests
+selenium
